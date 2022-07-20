@@ -1,0 +1,59 @@
+[
+    {
+        "name":"Ismayil",
+        "surname": "Ibra",
+        "age": 20,
+        "image": "assets/photos/ismayil-ibra.jpeg",
+        "job":"Junior Fullstack Developer",
+        "contact": "https://www.instagram.com/ismayil.ibrakhimli/",
+        "location": "Baku"
+        
+        
+    },
+    {
+        "name":"Ismayil",
+        "surname": "Hasanov",
+        "age": 20,
+        "image": "assets/photos/ismayil-hasan.png",
+        "job":"Junior Fullstack Developer",
+        "contact": "https://www.instagram.com/ismailhasann_/",
+        "location": "Baku"
+    },
+    {
+        "name":"Khalilbay",
+        "surname": "Khalilbayli",
+        "age": 29,
+        "image": "assets/photos/khalil.png",
+        "job":"Logistic",
+        "contact": "https://www.instagram.com/halilbeyabi/",
+        "location": "Yevlakh"
+    
+    },
+    {
+        "name":"Elshan",
+        "surname": "Aliyev",
+        "age": 25,
+        "image": "assets/photos/elshan-ali.png",
+        "job":"Developer",
+        "contact": "https://www.instagram.com/imelshanali/",
+        "location": "Baku"
+    },
+    {
+        "name":"Kamran",
+        "surname": "Gasimov",
+        "age": 26,
+        "image": "assets/photos/kamran-gasimov.png",
+        "job":"Senior Fullstack Developer",
+        "contact": "https://www.instagram.com/kamran_qsmv/",
+        "location": "Baku"
+    },
+    {
+        "name":"Huseyn",
+        "surname": "Ashurlu",
+        "age": 23,
+        "image": "assets/photos/huseyn-ashurlu.png",
+        "job":"Software Engineer⁣",
+        "contact": "https://www.instagram.com/huseynashurlu/",
+        "location": "Baku"
+    }
+]
